@@ -1,0 +1,4 @@
+﻿  test3.cpp
+c:\users\kym2-18\source\repos\template\exam01-templatefunction\test3.cpp(24): error C2672: 'GetMax': 일치하는 오버로드된 함수가 없습니다.
+c:\users\kym2-18\source\repos\template\exam01-templatefunction\test3.cpp(24): error C2783: 'T2 GetMax(T1,T1)': 'T2'의 템플릿 인수를 추론할 수 없습니다.
+  c:\users\kym2-18\source\repos\template\exam01-templatefunction\test3.cpp(6): note: 'GetMax' 선언을 참조하십시오.
